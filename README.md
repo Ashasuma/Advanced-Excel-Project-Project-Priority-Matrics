@@ -15,7 +15,7 @@ Optimizes resource allocation and planning.
 Simplifies decision-making by presenting clear, data-driven insights.
 
 
-##Skills:
+# Skills
 - **Advanced Excel Techniques:** Utilized complex formulas, conditional formatting, and automated scoring mechanisms.
 - **Data Analysis:** Evaluated project metrics to identify high-priority initiatives.
 - **Visualization** Created a matrix with clear visuals to communicate priorities effectively.
